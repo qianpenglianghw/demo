@@ -1,4 +1,4 @@
-export default class ImageGray{
+export default class ImageFilter{
     constructor(dom,src,radius) {
         this.dom=dom
         this.el=document.createElement("div")
